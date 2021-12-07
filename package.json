@@ -1,0 +1,19 @@
+{
+  "name": "image-picker",
+  "version": "1.0.0",
+  "description": "The tinder of picking images.",
+  "main": "server/index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/cattrn/incode6-fullstack.git"
+  },
+  "author": "Cat Turnbull",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/cattrn/incode6-fullstack/issues"
+  },
+  "homepage": "https://github.com/cattrn/incode6-fullstack#readme"
+}
